@@ -1,0 +1,88 @@
+body{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.navbar{
+    border-bottom: darkslategrey 5px solid;
+    
+}
+.navbar .navbar-brand{
+    color: black !important;
+    font-size: 24px;
+}
+.navbar .nav-link:hover{
+    color: white !important;
+    scale: 110%;
+    transition: 0.5s !important;
+}
+#headerSection{
+    background: url('../images/ourHistory.jpg') no-repeat center center fixed ;
+    background-size: cover;
+    height: 100vh;
+    border-bottom: darkslategrey 1.5px solid;
+}
+#headerSection .overlay{
+    background-color: rgba(0, 0, 0, .3);
+    
+}
+#headerSection .row{
+    height: 100vh !important;
+}
+.icons8{
+    width: 65px;
+    height: 65px;
+    
+    
+    
+}
+.icons8 img{
+    width: 64px;
+    height: 64px;
+    
+}
+.icons8 img:hover{
+    border: lightcoral 3px solid;
+    border-radius: 10%;
+}
+.icons8 img:hover{
+    scale: 115%;
+    transform: rotate(360deg);
+    transition: 0.7s;
+}
+#featurs h3{
+    font-size: 24px;
+}
+#featurs h3:hover{
+    color: goldenrod !important;
+    transition: 0.7s;
+    
+}
+#ourHistory h2{
+    border-left: #002752 6px solid  !important;
+    padding-left: 30px !important;
+    
+
+}
+#ourHistory h2:hover{
+    scale: 105%;
+    color: lightcyan !important;
+    
+
+}
+#ourHistory{
+    background:url('../images/797609.jpg') no-repeat center center fixed ;
+    
+}
+#ourHistory {
+    background-color: rgba(0, 0, 0, .7) !important;
+}
+#ourHistory p:hover{
+    color: #002752 !important;
+    background-color: #cce5ff;
+    border: 2px solid #002752;
+    transition: 0.4s;
+}
+#team-cards .card-link  span:hover{
+    scale: 120% !important;
+    transform: rotate(360deg) !important;
+    transition: 0.5 !important;
+}

@@ -1,0 +1,8 @@
+<i class="fa-solid fa-swords"></i> ikili kılıç
+<i class="fa-sharp fa-solid fa-shield-halved"></i> kalkan
+<i class="fa-solid fa-staff"></i> asa
+<i class="fa-solid fa-bow-arrow"></i> ok-yay
+<i class="fa-brands fa-github"></i> github
+<i class="fa-brands fa-facebook"></i> facebook
+<i class="fa-brands fa-youtube"></i> youtube
+<i class="fa-brands fa-instagram"></i> intagram
